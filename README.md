@@ -9,7 +9,7 @@ Providing the 0.4 clients to Mac OS X and Windows devices.
         <li><a href="https://github.com/lucasburlingham/Minetest-0.4.17.1-Client/blob/master/Minetest-Macosx-0.4.16.0.app.zip">Mac OS X                 Client (Version 0.4.16 zip file)</a>
         </li>
         <li>
-                <a href="https://github.com/lucasburlingham/Minetest-0.4.17.1-Client/blob/macosx/minetest-0.16.0-client-macosx.pkg"> Mac                        OS X Client Installer (Version 0.4.16)
+                <a href="https://github.com/lucasburlingham/Minetest-0.4.17.1-Client/blob/macosx/minetest-0.16.0-client-macosx.pkg"> Mac                        OS X Client Installer (Version 0.4.16)</a>
         </li>
         <li>
                 <a href="https://github.com/lucasburlingham/Minetest-0.4.17.1-Client/blob/master/minetest-0.4.17.1-win64.zip">Windows Client (Version 0.4.17)</a>
