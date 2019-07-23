@@ -5,14 +5,14 @@ Providing the 0.4 clients to Mac OS X and Windows devices.
  
    <p>
  Download the clients for your machine:
- <li>
- <ul><a href="https://github.com/lucasburlingham/Minetest-0.4.17.1-Client/blob/master/Minetest-Macosx-0.4.16.0.app.zip">Mac OS X Client (Version 0.4.16 zip file)</a></ul>
-  <ul><a href="https://github.com/lucasburlingham/Minetest-0.4.17.1-Client/blob/macosx/minetest-0.16.0-client-macosx.pkg"> Mac OS X Client Installer (Version 0.4.16)
-  </ul>
+ <ul>
+ <li><a href="https://github.com/lucasburlingham/Minetest-0.4.17.1-Client/blob/master/Minetest-Macosx-0.4.16.0.app.zip">Mac OS X Client (Version 0.4.16 zip file)</a></li>
+  <li><a href="https://github.com/lucasburlingham/Minetest-0.4.17.1-Client/blob/macosx/minetest-0.16.0-client-macosx.pkg"> Mac OS X Client Installer (Version 0.4.16)
+  </li>
 
-<ul>
- <a href="https://github.com/lucasburlingham/Minetest-0.4.17.1-Client/blob/master/minetest-0.4.17.1-win64.zip"> Windows Client (Version 0.4.17)
- </li>
+<li>
+ <a href="https://github.com/lucasburlingham/Minetest-0.4.17.1-Client/blob/master/minetest-0.4.17.1-win64.zip"> Windows Client (Version 0.4.17)</li>
+ </ul>
    </p>
  Go here for the Official MT Clients (5.0 Versions)
 <code><a href="downloads.Minetest.net">Mintest.net Download Site</a></code>
