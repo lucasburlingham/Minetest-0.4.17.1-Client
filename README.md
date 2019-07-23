@@ -11,7 +11,8 @@ Providing the 0.4 clients to Mac OS X and Windows devices.
   </li>
 
 <li>
- <a href="https://github.com/lucasburlingham/Minetest-0.4.17.1-Client/blob/master/minetest-0.4.17.1-win64.zip"> Windows Client (Version 0.4.17)</li>
+ <a href="https://github.com/lucasburlingham/Minetest-0.4.17.1-Client/blob/master/minetest-0.4.17.1-win64.zip"> Windows Client (Version 0.4.17)</a>
+</li>
  </ul>
    </p>
  <p1>
