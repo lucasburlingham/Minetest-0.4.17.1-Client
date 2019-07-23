@@ -17,7 +17,7 @@ Providing the 0.4 clients to Mac OS X and Windows devices.
  </ul>
    </p>
  <p>
-<code><a href="downloads.Minetest.net">Mintest.net Download Site></a></code>
+<code><a href="downloads.Minetest.net">Mintest.net Download Site</a></code>
 </p>
 <p>Author 
 Simon Burlingham</p>
