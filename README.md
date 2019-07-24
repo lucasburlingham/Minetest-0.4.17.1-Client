@@ -23,6 +23,8 @@ Providing the 0.4 clients to Mac OS X, Android, and Windows Devices.
          <p><code>Go to /Mintest-0.4.17.1-win64/minetest/bin/</code> and double click the <code>minetest.exe</code> file to open.</p>
         </li>
         <li><a href="https://downloads.minetest.org/minetest-0.4.17.1.tar.gz">Android (Version 0.4.17)</a>
+ <a href="https://play.google.com/store/apps/details?id=net.minetest.minetest&utm_source=website&pcampaignid=MKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1">
+          <img style="max-height: 7em;" alt="Get it on Google Play" src="google-play-badge.png"/>
   </li>
  </ul>
    </p>
