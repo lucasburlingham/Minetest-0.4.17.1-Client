@@ -30,8 +30,6 @@ Providing the 0.4 clients to Mac OS X, Android, and Windows Devices.
 Go to the <a href="https://downloads.Minetest.net">Mintest.net Download Site</a> for the updated official versions.
 </p>
  <p>You can also get the 0.3.0 clients for MacOS X <a href="https://github.com/toabi/minetest-mac/downloads">here</a>.</p>
-</p>
-
 <a href="https://play.google.com/store/apps/details?id=net.minetest.minetest&utm_source=website&pcampaignid=MKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1">
           <img style="max-height: 20px;" alt="Get it on Google Play" src="google-play-badge.png"/>
 <p>Author of this page: 
