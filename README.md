@@ -7,11 +7,11 @@ Providing the 0.4 clients to Mac OS X, Android, and Windows Devices.
  Download the clients which are right for your machine:
  <ul>
         <li><a href="https://github.com/lucasburlingham/Minetest-0.4.17.1-Client/blob/master/Minetest-Macosx-0.4.16.0.app.zip">Mac OS X                 Client (Version 0.4.16 zip file)</a>
-         <p>Please Double Click this File to open.</p>
+         <p>Please extract and double-click this File to open, or move it into your <code>/Applications</code> folder for easier access.</p>
         </li>
         <li>
                 <a href="https://github.com/lucasburlingham/Minetest-0.4.17.1-Client/raw/macosx/minetest-0.16.0-client-macosx.pkg">Mac                        OS X Client Easy Installer (Version 0.4.16)</a>
-        <p> Again, Please Just Double-Click this file to open. Follow the instructions. It will ask for an administrator password. NOTE: This is a dirty version. </p>
+        <p> Again, extract then double-click this file to open. Follow the instructions. It will ask for an administrator password. <i>NOTE: This is a dirty version.<i> </p>
         </li>
   <li>Install Minetest 0.4.17.1 for MacOS X with <a href="https://brew.sh">Homebrew</a> 
    <p>Open <code>/Utilities/Terminal.app</code> and type <code>brew install minetest</code>.
