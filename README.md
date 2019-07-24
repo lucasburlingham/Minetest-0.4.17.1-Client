@@ -10,7 +10,7 @@ Providing the 0.4 clients to Mac OS X, Android, and Windows Devices.
          <p>Please Double Click this File to open.</p>
         </li>
         <li>
-                <a href="https://github.com/lucasburlingham/Minetest-0.4.17.1-Client/blob/macosx/minetest-0.16.0-client-macosx.pkg">Mac                        OS X Client Easy Installer (Version 0.4.16)</a>
+                <a href="https://github.com/lucasburlingham/Minetest-0.4.17.1-Client/raw/macosx/minetest-0.16.0-client-macosx.pkg">Mac                        OS X Client Easy Installer (Version 0.4.16)</a>
         <p> Again, Please Just Double-Click this file to open. Follow the instructions. It will as for an administrator password.</p>
         </li>
         <li>
