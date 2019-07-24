@@ -27,7 +27,8 @@ Providing the 0.4 clients to Mac OS X, Android, and Windows Devices.
  </ul>
    </p>
  <p>
-<code><a href="downloads.Minetest.net">Mintest.net Download Site</a></code>
+Go to the <a href="downloads.Minetest.net">Mintest.net Download Site</a> for the updated official versions.
+</p>
  <p>You can also get the 0.3.0 clients for MacOS X <a href="https://github.com/toabi/minetest-mac/downloads">here</a>.</p>
 </p>
 <p>Author of this page: 
