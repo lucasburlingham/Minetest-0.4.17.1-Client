@@ -1,6 +1,7 @@
 # Minetest 0.4.17.0 Client Download
 Providing the 0.4 clients to Mac OS X, Android, and Windows Devices.
 
+<link rel='icon' href='favicon.svg' type='image/svg'/ >
 <h3>Is the 4.0 client hard to find? Look no further! This repository provides Windows, Mac OS X and Android clients.</h3>
  
    <p>
