@@ -1,8 +1,8 @@
-# Minetest 0.4.17.0 Client Download
-Providing the 0.4 clients to Mac OS X, Android, and Windows Devices.
-<a href="https://hosted.weblate.org/engage/minetest/?utm_source=widget">
+# Minetest 0.4.17.0 Client Download <a href="https://hosted.weblate.org/engage/minetest/?utm_source=widget">
 <img src="https://hosted.weblate.org/widgets/minetest/-/minetest/svg-badge.svg" alt="Translation status" />
 </a>
+Providing the 0.4 clients to Mac OS X, Android, and Windows Devices.
+
 
 
 <h3>Is the 4.0 client hard to find? Look no further! This repository provides Windows, Mac OS X and Android clients.</h3>
