@@ -1,6 +1,4 @@
-# Minetest 0.4.17.0 Client Download <a href="https://hosted.weblate.org/engage/minetest/?utm_source=widget">
-<img src="https://hosted.weblate.org/widgets/minetest/-/minetest/svg-badge.svg" alt="Translation status" />
-</a>
+# Minetest 0.4.17.0 Client Download 
 Providing the 0.4 clients to Mac OS X, Android, and Windows Devices.
 
 
