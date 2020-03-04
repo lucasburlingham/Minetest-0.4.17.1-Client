@@ -24,7 +24,7 @@ Providing the 0.4 clients to Mac OS X, Android, and Windows Devices.
                 <a href="https://github.com/lucasburlingham/Minetest-0.4.17.1-Client/raw/master/minetest-0.4.17.1-win64.zip">Windows Client (Version 0.4.17)</a>
          <p><code>Go to /Mintest-0.4.17.1-win64/minetest/bin/</code> and double click the <code>minetest.exe</code> file to open.</p>
  <li>
-                <a href="https://github.com/lucasburlingham/Minetest-0.4.17.1-Client/raw/master/Minetest%200.4.17.exe">Windows Installer</a>
+                <a href="https://github.com/lucasburlingham/Minetest-0.4.17.1-Client/raw/0.4.17/Minetest%200.4.17.exe">Windows Installer</a>
          <p><code>Double click file and follow instructions.</code></p>
         </li>
   </li>
